@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [QuickCart]
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **kirangawande9307@gmail.com**
 
