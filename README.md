@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [QuickCart]
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **NEXT.JS**
 
 - 📫 How to reach me **kirangawande9307@gmail.com**
 
